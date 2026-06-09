@@ -1,6 +1,6 @@
-<h1 align="center">Hi there 👋, I'm Saloni Agalawe</h1>
+<h1 align="center">Hi there , I'm Saloni Agalawe</h1>
 
-<h3 align="center">Third Year Computer Engineering Student | Aspiring DevOps Engineer 🚀</h3>
+<h3 align="center">Third Year Computer Engineering Student | Aspiring DevOps Engineer </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=DevOps+Enthusiast;Frontend+Developer;UI%2FUX+Learner;Always+Learning+New+Things">
@@ -69,11 +69,11 @@
 ## 🤝 Connect With Me
 
 <p>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+<a href="[https://www.linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/saloniagalawe?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/saloniagalawe2006-boop">
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
 </a>
 </p>
