@@ -1,86 +1,86 @@
-<h1 align="center">Hi there , I'm Saloni Agalawe</h1>
+```html
+<h1 align="center">Hi, I'm Saloni Agalawe</h1>
 
-<h3 align="center">Third Year Computer Engineering Student | Aspiring DevOps Engineer </h3>
+<h3 align="center">
+Frontend Engineer | DevOps Engineer
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=DevOps+Enthusiast;Frontend+Developer;UI%2FUX+Learner;Always+Learning+New+Things">
+Third Year Computer Engineering Student
 </p>
 
----
+<br>
 
-## 👩‍💻 About Me
+<h2>About Me</h2>
 
-- 🎓 Third Year Computer Engineering Student
-- 🌱 Currently learning **DevOps**
-- 💻 Interested in **Cloud, Automation, Linux, Git & CI/CD**
-- 🎨 Have experience in **Frontend Development**
-- ✨ Basic knowledge of **UI/UX Design** and **Canva**
-- 🚀 Passionate about building and deploying modern applications
-- 📚 Always eager to learn new technologies
+<ul>
+  <li>Third Year Computer Engineering Student</li>
+  <li>Interested in DevOps and Frontend Development</li>
+  <li>Currently learning Linux, Git, Docker and CI/CD</li>
+  <li>Basic understanding of UI/UX principles</li>
+  <li>Experience with Figma and Canva</li>
+  <li>Passionate about building and deploying modern applications</li>
+</ul>
 
----
+<br>
 
-## 🛠️ Tech Stack
+<h2>Tech Stack</h2>
 
-### Languages
+<h3>Languages</h3>
+
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css" />
 </p>
 
-### Frontend
+<h3>Frontend</h3>
+
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
 </p>
 
-### DevOps & Tools
+<h3>DevOps</h3>
+
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,docker" />
 </p>
 
-### Design
+<h3>Design</h3>
+
 <p>
   <img src="https://skillicons.dev/icons?i=figma" />
 </p>
 
-- 🎨 Canva (Basic)
+<ul>
+  <li>Canva</li>
+</ul>
 
----
+<br>
 
-## 📈 GitHub Stats
+<h2>GitHub Statistics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" width="48%">
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" width="48%">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=saloniagalawe2006-boop&show_icons=true&theme=github_dark" />
+
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=saloniagalawe2006-boop&theme=github-dark-blue" />
 </p>
 
----
+<br>
 
-## 🌟 Interests
-
-☁️ DevOps & Cloud Computing  
-⚙️ Automation & CI/CD  
-🎨 UI/UX Design  
-🌐 Frontend Development  
-🚀 Open Source & Continuous Learning
-
----
-
-## 🤝 Connect With Me
+<h2>Connect</h2>
 
 <p>
-<a href="[https://www.linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/saloniagalawe?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
-</a>
+  <a href="https://github.com/saloniagalawe2006-boop">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
 
-<a href="https://github.com/saloniagalawe2006-boop">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
-</a>
+  <a href="https://www.linkedin.com/in/saloniagalawe">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 </p>
 
----
+<br>
 
 <p align="center">
-✨ "Learning, Building, and Growing Every Day." ✨
+Building, Learning and Growing.
 </p>
 ```
