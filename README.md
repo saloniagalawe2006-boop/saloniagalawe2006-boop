@@ -1,6 +1,6 @@
-<h1 align="center">Hi there 👋, I'm Saloni Agalawe</h1>
+<h1 align="center">Hi there , I'm Saloni Agalawe</h1>
 
-<h3 align="center">Third Year Computer Engineering Student | Aspiring DevOps Engineer 🚀</h3>
+<h3 align="center">Third Year Computer Engineering Student | Aspiring DevOps Engineer | Frondend Developer | Design |</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=DevOps+Enthusiast;Frontend+Developer;UI%2FUX+Learner;Always+Learning+New+Things">
