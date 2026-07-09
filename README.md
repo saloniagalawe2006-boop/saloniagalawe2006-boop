@@ -48,8 +48,6 @@ mindset: "Always curious. Always building."
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=saloniagalawe2006-boop&theme=synthwave&hide_border=true" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saloniagalawe2006-boop&theme=synthwave&hide_border=true" width="90%"/>
-
 </div>
 
 <br/>
