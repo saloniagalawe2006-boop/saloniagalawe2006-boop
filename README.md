@@ -64,20 +64,6 @@ mindset: "Always curious. Always building."
 
 <br/>
 
-## 📌 Featured Projects
-
-<div align="center">
-
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=saloniagalawe2006-boop&repo=HTML-CSS-Basic-projects&theme=synthwave&hide_border=true"/></a>
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=saloniagalawe2006-boop&repo=Water-Demand-Forecaster-frontend&theme=synthwave&hide_border=true"/></a>
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=saloniagalawe2006-boop&repo=Streamlit-&theme=synthwave&hide_border=true"/></a>
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=saloniagalawe2006-boop&repo=All-Mini-Projects&theme=synthwave&hide_border=true"/></a>
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=saloniagalawe2006-boop&repo=Deployer&theme=synthwave&hide_border=true"/></a>
-
-</div>
-
-<br/>
-
 ## 🌱 Areas of Interest
 
 <div align="center">
@@ -88,14 +74,6 @@ mindset: "Always curious. Always building."
 ![UIUX](https://img.shields.io/badge/UI%2FUX_Design-E4405F?style=for-the-badge)
 ![OpenSource](https://img.shields.io/badge/Open_Source-181717?style=for-the-badge)
 
-</div>
-
-<br/>
-
-## 💬 Random Dev Quote
-
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
 
 <br/>
